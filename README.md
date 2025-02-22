@@ -1,10 +1,10 @@
-# MusicNextJS
+# Symphony Hub
 
-Welcome to the MusicNextJS project! This project is a comprehensive learning journey of mine learning NextJS, Typescript, and ShadCN .This project is built only for UI friendly and not for any backend services.
+Welcome to the Symphony Hub project! This project is a comprehensive learning journey of mine learning NextJS, Typescript, and ShadCN. This project is built only for UI friendly and not for any backend services.
 
 ## Introduction
 
-MusicNextJS is a web application designed to enhance your musical journey. It provides a platform to explore featured webinars, courses, and other music-related content. The project is built using Next.js and TypeScript, leveraging modern web development practices.
+Symphony Hub is a web application designed to enhance your musical journey. It provides a platform to explore featured webinars, courses, and other music-related content. The project uses Next.js and TypeScript, leveraging modern web development practices.
 
 ## Features
 
