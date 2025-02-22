@@ -9,14 +9,12 @@ const musicSchoolContent = [
       "Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
   },
   {
-    title: "Discover Your Sound with Us: A Personal Journey in Music Mastery",
-    description:
-      "Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
+    title: "Unlock Your Musical Potential: A Journey to Mastery",
+    description: "Dive into a world of rhythm and melody designed just for you. Our personalized approach helps you refine your skills, explore new sounds, and build confidence in your musical journey. Let your passion for music shine."
   },
   {
-    title: "Discover Your Sound with Us: A Personal Journey in Music Mastery",
-    description:
-      "Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.",
+    title: "Craft Your Sound: Elevate Your Musical Expression",
+    description: "Whether you're a beginner or a seasoned musician, our courses are tailored to help you grow. Master techniques, experiment with styles, and bring your musical vision to life with expert guidance and immersive learning."
   },
   {
     title: "Live Feedback & Engagement",

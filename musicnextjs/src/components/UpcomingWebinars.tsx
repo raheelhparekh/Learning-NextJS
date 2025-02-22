@@ -33,7 +33,6 @@ function UpcomingWebinars() {
       slug: "music-production-essentials",
       isFeatured: true,
     },
-    // Added two more webinars
     {
       title: "Live Performance Techniques",
       description:
@@ -49,6 +48,7 @@ function UpcomingWebinars() {
       isFeatured: true,
     },
   ];
+
   return (
     <div className="p-12 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
@@ -64,9 +64,10 @@ function UpcomingWebinars() {
         <div className="mt-10">
           <HoverEffect
             items={featuredWebinars.map((webinar) => ({
+              key: webinar.slug, // Add unique key here
               title: webinar.title,
               description: webinar.description,
-              link: "/",
+              link: `/webinars/${webinar.slug}`,
             }))}
           />
         </div>
